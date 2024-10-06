@@ -1,0 +1,30 @@
+.styy
+{
+    background-color: rgb(158, 158, 239);
+    padding: 100px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    height: 100vh;           
+    margin: 0;   
+}
+.hhhh
+{
+    color:black;
+}
+.sty11
+{
+    background-color: hsl(0, 0%, 87%, 0.1);
+    padding-bottom: 50px;
+    border-radius: 5%;
+    border: 8px solid;
+    width: 400px;            
+    height: 600px;           
+    box-sizing: border-box;
+    display: flex;          
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center;  
+}
